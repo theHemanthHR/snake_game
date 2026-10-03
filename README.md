@@ -1,6 +1,6 @@
 # 🐍 Cyber Snake: Neon Garden
 
-**Cyber Snake: Neon Garden** is a visually stunning, cyberpunk-themed 2D Snake game built for Linux using C++ and the SDL2 library. 
+**Cyber Snake: Neon Garden** is a visually stunning, cyberpunk-themed 2D Snake game built using C++ and the SDL2 library. 
 
 Forget the boring green blocks—this version features a neon-drenched aesthetic, procedural sound effects, and a high-energy atmosphere.
 
